@@ -1,0 +1,2 @@
+# VBA-BUSN9210-AUT-Advanced-Spreadsheets-and-Decision-Support-Systems-2021-2022-
+n this module, students will learn about advanced features of Microsoft Excel®, the industry standard for spreadsheet modelling, to structure, analyse, and solve a variety of managerial problems. The module will also provide students with an introduction to Visual Basic for Applications (VBA), which can be used to automate Excel tasks, perform calculations, and create user-friendly decision support systems.
